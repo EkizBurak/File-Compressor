@@ -1,7 +1,7 @@
 import os
 import argparse
 import subprocess
-
+#Adem
 parser = argparse.ArgumentParser()
 parser.add_argument("--path","-p" ,required=True, help="Please Entry file loacation")
 parser.add_argument("--winrar", "-w", required=True, help="Entry winrar.exe path")
